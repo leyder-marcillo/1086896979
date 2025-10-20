@@ -1,3 +1,4 @@
-Integrante:
-  Leyder Homero Marcillo Mera
-  Yeiner Alexánder Martinez Barrea
+**Integrantes del equipo:**
+
+- Leyder Homero Marcillo Mera  
+- Yeiner Alexánder Martinez Barrea
